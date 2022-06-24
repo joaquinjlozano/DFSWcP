@@ -1,0 +1,23 @@
+[
+    {
+        "fecha": "01/01/2022",
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": "123456789",
+        "id": 1
+    },
+    {
+        "fecha": "02/01/2022",
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "dni": "123456789",
+        "id": 2
+    },
+    {
+        "fecha": "03/01/2022",
+        "nombre": "Joaqu\u00edn MOD 2",
+        "apellido": "Lozano",
+        "dni": "12346578",
+        "id": 3
+    }
+]
